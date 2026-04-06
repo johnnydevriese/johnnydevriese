@@ -2,8 +2,8 @@
 
 I build and deploy intelligent systems that solve real-world problems. I'm passionate about taking an idea from a prototype to a fully-deployed system.
 
-  * 🔭 **Expertise**: LLM classification, RAG pipelines, and data-driven solutions for efficiency and safety.
-  * 🛠️ **Stack**: Python (PyTorch, Polars/Pandas, scikit-learn), Rust, JavaScript. I'm skilled with AWS services like Bedrock, SageMaker, Glue, and Kinesis, and tools like k8s and Docker.
+  * 🔭 **Expertise**: Agentic workflows, LLM classification, RAG pipelines, and data-driven solutions for efficiency and safety.
+  * 🛠️ **Stack**: Python (FastAPI, PyTorch, Polars/Pandas, scikit-learn), Rust, JavaScript. I'm skilled with AWS services like Bedrock, SageMaker, Glue, and Kinesis, and tools like k8s and Docker.
 
 **📫 Let's connect\!** You can find me on [LinkedIn](https://www.linkedin.com/in/johnny-devriese-080556129/) or email me at username22 on gmail.
 
