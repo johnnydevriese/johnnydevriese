@@ -1,4 +1,4 @@
-**👋 Hi, I'm Johnny Devriese, an Senior AI Engineer. 🤠**
+**👋 Hi, I'm Johnny Devriese, Senior AI Engineer. 🤠**
 
 I build and deploy intelligent systems that solve real-world problems. I'm passionate about taking an idea from a prototype to a fully-deployed system.
 
