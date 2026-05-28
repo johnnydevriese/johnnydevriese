@@ -1,23 +1,5 @@
-**👋 Hi, I'm Johnny Devriese, Senior AI Engineer. 🤠**
+👋 Johnny Devriese | Senior AI Engineer 🤠
 
-I build and deploy intelligent systems that solve real-world problems. I'm passionate about taking an idea from a prototype to a fully-deployed system.
+Physicist turned AI engineer, bridging AI research and production. Currently building enterprise agentic systems and writing about LLM interpretability.
 
-  * 🔭 **Expertise**: Agentic workflows, LLM classification, RAG pipelines, and data-driven solutions for efficiency and safety.
-  * 🛠️ **Stack**: Python (FastAPI, PyTorch, Polars/Pandas, scikit-learn), Rust, JavaScript. I'm skilled with AWS services like Bedrock, SageMaker, Glue, and Kinesis, and tools like k8s and Docker.
-
-**📫 Let's connect\!** You can find me on [LinkedIn](https://www.linkedin.com/in/johnny-devriese-080556129/) or email me at username22 on gmail.
-
-<!--
-**johnnydevriese/johnnydevriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Blog: [johnnydevriese.github.io](https://johnnydevriese.github.io/) | 📫 Contact: [LinkedIn](https://www.linkedin.com/in/johnny-devriese-080556129/) · username22@gmail.com
